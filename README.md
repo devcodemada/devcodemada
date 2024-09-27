@@ -37,9 +37,9 @@ Hi, I’m **Devcodemada** 👋! I’m a passionate Full Stack Developer with exp
 
 ### 📈 Stats
 
-![Devcodemada's GitHub Stats](https://github-readme-stats.vercel.app/api?username=devcodemada&show_icons=true&theme=radical)
+![Devcodemada's GitHub Stats](https://github-readme-stats.vercel.app/api?username=devcodemada&show_icons=true&theme=dracula)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=devcodemada&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=devcodemada&layout=compact&theme=dracula)
 
 ---
 
